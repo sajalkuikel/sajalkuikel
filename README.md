@@ -4,9 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajalkuikel" alt="sajalkuikel" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sajalkuikel" target="blank"><img src="https://img.shields.io/twitter/follow/sajalkuikel?logo=twitter&style=for-the-badge" alt="sajalkuikel" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Vue**
+- 🌱 I’m currently learning **Data analysis**
 
 
 <h3 align="left">Connect with me:</h3>
