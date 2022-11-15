@@ -5,7 +5,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajalkuikel" alt="sajalkuikel" /></a> </p>
 
 
-- 🌱 I’m currently learning **Data analysis**
 
 
 <h3 align="left">Connect with me:</h3>
